@@ -102,7 +102,7 @@ $LOG_DIR/deauth_packets.txt  # Raw tcpdump packet capture (trimmed automatically
 
 ---
 
-## payload.sh — Native Pager Alert Payload
+## payload.sh — Pager Alert Payload
 
 A lightweight native alert payload that integrates directly with the Pagers built-in PineAP recon engine. No capture loop needed — the Pager detects the flood and calls this script automatically.
 
