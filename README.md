@@ -52,7 +52,7 @@ Copy the script to your Pager to SSH or use SCP:
 ```
 #!/bin/bash
 
-scp /home/user/Downloads/FoxHunter.sh root@172.16.42.1:/mmc/root/payloads/alerts/FoxHunter
+scp /home/user/Downloads/FoxHunter.sh root@172.16.52.1:/mmc/root/payloads/alerts/FoxHunter
 ```
 
 Make it executable:
@@ -85,7 +85,7 @@ MAX_LOG_LINES=500 # Max lines in packet log before trimming
 ```
 #!/bin/bash
 
-ssh root@172.16.42.1
+ssh root@172.16.52.1
 bash /root/FoxHunter.sh
 ```
 
@@ -136,7 +136,7 @@ Copy the payload to the correct alerts directory on your Pager:
 ```
 #!/bin/bash
 
-scp /home/user/Downloads/payload.sh root@172.16.42.1:/root/payloads/alerts/deauth_flood_detected/FoxHunter/
+scp /home/user/Downloads/payload.sh root@172.16.52.1:/root/payloads/alerts/deauth_flood_detected/FoxHunter/
 ```
 
 Or create the directory and file manually in SSH:
