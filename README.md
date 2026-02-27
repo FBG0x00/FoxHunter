@@ -1,7 +1,7 @@
-# FoxHunter
+# FoxHunter 🦊
 Deauth Flood Detection
 
-# Title: 🦊 FoxHunter
+# Title: FoxHunter
 # Description: Deauth Flood Detection
 # Author: 0x00
 # Version: 1.0
