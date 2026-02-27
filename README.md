@@ -1,6 +1,6 @@
 # 🦊 FoxHunter
 
-> **Passive Deauth Flood Detection for the WiFi Pineapple Pager**
+> **Deauth Flood Detection for the WiFi Pineapple Pager**
 > Author: 0x00 | Version: 1.0
 
 ---
