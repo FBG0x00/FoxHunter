@@ -3,7 +3,7 @@ Deauth Flood Detection
 
 # Title: FoxHunter
 # Description: Deauth Flood Detection
-# Author: 0x00
+# Author: FBG0X00
 # Version: 1.0
 
 # payload.sh — Pager Alert Payload
@@ -109,7 +109,7 @@ Built for the "WiFi Pineapple Pager" by Hak5.
 
 # Title: 🦊 FoxHunter
 # Description: Deauth Flood Detection
-# Author: 0x00
+# Author: FBG0x00
 # Version: 1.0
 
 # FoxHunter.sh — Terminal Version
