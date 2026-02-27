@@ -10,7 +10,7 @@
 #
 # Title:       FoxHunter
 # Description: Passive Deauth Flood Detection — Terminal Version
-# Author:      0x00
+# Author:      FBG0x00
 # Version:     1.0
 # Target:      WiFi Pineapple (OpenWrt)
 # ============================================================
