@@ -6,7 +6,7 @@
 #
 #  Title:       FoxHunter
 #  Description: Passive Deauth Flood Detection - Pager Version
-#  Author:      0x00
+#  Author:      FBG0X00
 #  Version:     1.0
 #  Category:    Alert
 #
