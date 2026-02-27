@@ -18,7 +18,7 @@ Neither script performs any active attacks. FoxHunter **only listens**.
 | Script | Version | Use Case |
 |---|---|---|
 | `FoxHunter.sh` | 1.0 | Terminal-based monitor via SSH |
-| `payload.sh` | 1.0 | Native Pager alert payload |
+| `payload.sh` | 1.0 | Pager alert payload |
 
 ---
 
