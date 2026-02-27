@@ -1,7 +1,7 @@
 # 🦊 FoxHunter
 
 > **Deauth Flood Detection for the WiFi Pineapple Pager**
-> Author: 0x00 | Version: 1.0
+> Author: FBG0X00 | Version: 1.0
 
 ---
 
